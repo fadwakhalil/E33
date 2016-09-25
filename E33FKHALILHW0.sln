@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliceDispatcherClient", "PoliceDispatcherClient\PoliceDispatcherClient.csproj", "{AF9B1DF9-1194-4C8D-8759-F456D7657A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureCommunicationComponent", "SecureCommunicationComponent\SecureCommunicationComponent.csproj", "{246BD48A-62D2-43C8-A49C-CEF675B9DB73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9B1DF9-1194-4C8D-8759-F456D7657A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9B1DF9-1194-4C8D-8759-F456D7657A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9B1DF9-1194-4C8D-8759-F456D7657A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9B1DF9-1194-4C8D-8759-F456D7657A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246BD48A-62D2-43C8-A49C-CEF675B9DB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246BD48A-62D2-43C8-A49C-CEF675B9DB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246BD48A-62D2-43C8-A49C-CEF675B9DB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246BD48A-62D2-43C8-A49C-CEF675B9DB73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
